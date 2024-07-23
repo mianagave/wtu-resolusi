@@ -3,5 +3,9 @@ RENCANA BACA BUKU
   *jam 04.00
   *jam 06.00
 -Baca buku tentang software
+   *oleh Adam Tornil
+   *Robert Martin
 -Baca buku tentang QA
 -Baca buku Analisa kebutuhan rekayasa software
+   *oleh Daniel Siahaan
+
