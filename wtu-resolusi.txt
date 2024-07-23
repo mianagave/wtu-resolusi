@@ -4,3 +4,5 @@ WTU RESOLUSI
 -Tidak berpatokan belajar hanya dari satu sumber
 -Selalu memahami dan konsisten menghapal setiap hal kata atau kalimat baru
 -perbanyak bertanya
+-Selalu mengulang hal yang baru saja dipelajari
+-Follow lebih banyak akun yang expert tentang QA
