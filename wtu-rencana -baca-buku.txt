@@ -7,3 +7,4 @@ RENCANA BACA BUKU
    *Marthin flower
 -Baca buku tentang QA
 -Baca buku Analisa kebutuhan rekayasa software
+-Baca buku ilmu komputer
