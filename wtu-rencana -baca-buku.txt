@@ -3,5 +3,7 @@ RENCANA BACA BUKU
   *jam 04.00
   *jam 06.00
 -Baca buku tentang software
+   *Robert Martin
+   *Marthin flower
 -Baca buku tentang QA
 -Baca buku Analisa kebutuhan rekayasa software
