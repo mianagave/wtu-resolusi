@@ -4,3 +4,4 @@ RENCANA BACA BUKU
   *jam 06.00
 -Baca buku tentang software
 -Baca buku tentang QA
+-Baca buku Analisa kebutuhan rekayasa software
