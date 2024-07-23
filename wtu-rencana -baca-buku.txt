@@ -6,5 +6,6 @@ RENCANA BACA BUKU
    *Robert Martin
    *Marthin flower
 -Baca buku tentang QA
--Baca buku Analisa kebutuhan rekayasa software
 -Baca buku ilmu komputer
+-Baca buku Analisa kebutuhan rekayasa software
+   *oleh Daniel Siahaan
